@@ -1,4 +1,5 @@
 <?php
+/*
 $themeconf = array(
   'template' => 'floPure',
   'theme' => 'clear_blue',
@@ -10,4 +11,12 @@ $themeconf = array(
   'eid' => '143',
   'version' => '2.0.5',
 );
+*/
+$themeconf = array(
+  'name'         => 'Pure_clear_blue',
+  'parent'        => 'default',
+  'icon_dir'      => 'themes/Pure_clear_blue/icon',
+  'mime_icon_dir' => 'themes/Pure_clear_blue/icon/mimetypes/',
+);
+
 ?>

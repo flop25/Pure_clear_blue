@@ -1,4 +1,4 @@
-/* $Id: theme.css 02-07-2008 flop25 $ */
+
 /* text color */
 BODY, H1, H2, H3, DT,
 INPUT.rateButtonSelected {
@@ -6,6 +6,10 @@ INPUT.rateButtonSelected {
 }
 
 /* positionnement */
+#autre_content {
+	padding-bottom: 1em;
+}
+
 #menubar DL, #menubar DT, #the_page, BODY {
 	margin: 0px;
 	padding: 0px;
