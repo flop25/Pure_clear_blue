@@ -14,9 +14,9 @@ $themeconf = array(
 */
 $themeconf = array(
   'name'         => 'Pure_clear_blue',
-  'parent'        => 'default',
-  'icon_dir'      => 'themes/Pure_clear_blue/icon',
-  'mime_icon_dir' => 'themes/Pure_clear_blue/icon/mimetypes/',
+  'parent'        => 'Pure_default',
+  'icon_dir'      => 'themes/Pure_default/icon',
+  'mime_icon_dir' => 'themes/Pure_default/icon/mimetypes/',
 );
 
 ?>
