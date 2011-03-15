@@ -1,3 +1,6 @@
+.pwg-icon {
+	background-image: url(icon/SPRITE.png);
+}
 
 /* text color */
 BODY, H1, H2, H3, DT,
